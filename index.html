@@ -21,8 +21,9 @@
 
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="./theme/css/bootstrap.min.css" type="text/css"/>
+        <link rel="stylesheet" href="./theme/css/bootstrap.cerulean.min.css" type="text/css"/>
     <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" href="./theme/css/my.css" type="text/css"/>
 
     <link href="./theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
@@ -37,20 +38,11 @@
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
 	<div class="container">
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
             <a href="./" class="navbar-brand">
 Brendan Borin's Blog            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                        <li >
-                            <a href="./category/investing.html">Investing</a>
-                        </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
             </ul>
@@ -63,6 +55,39 @@ Brendan Borin's Blog            </a>
 <div class="container">
     <div class="row">
         <div class="col-sm-9">
+            <article>
+                <h2><a href="./my-favorite-kaggle-competition.html">My Favorite Kaggle Competition</a></h2>
+                <div class="summary">
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+    <!-- MathJax configuration -->
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+            displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+            processEscapes: true,
+            processEnvironments: true
+        },
+        // Center justify equations in code and markdown cells. Elsewhere
+        // we use CSS to left justify single line equations in code cells.
+        displayAlign: 'center',
+        "HTML-CSS": {
+            styles: {'.MathJax_Display': {"margin": 0}},
+            linebreaks: { automatic: true }
+        }
+    });
+</script>
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>In this post, I'd like to discuss my favorite …</p></div></div></div>
+                    <a class="btn btn-default btn-xs" href="./my-favorite-kaggle-competition.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
             <article>
                 <h2><a href="./the-effect-of-portfolio-size-on-investing-performance.html">The Effect of Portfolio Size on Investing Performance</a></h2>
                 <div class="summary">
@@ -89,8 +114,9 @@ Brendan Borin's Blog            </a>
 <li class="list-group-item">
   <h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
   <ul class="list-group" id="social">
-    <li class="list-group-item"><a href="#"><i class="fa fa-you-can-add-links-in-your-config-file-square fa-lg"></i> You can add links in your config file</a></li>
-    <li class="list-group-item"><a href="#"><i class="fa fa-another-social-link-square fa-lg"></i> Another social link</a></li>
+    <li class="list-group-item"><a href="http://www.linkedin.com/in/brendanborin"><i class="fa fa-linkedin-square fa-lg"></i> LinkedIn</a></li>
+    <li class="list-group-item"><a href="https://github.com/brendanborin"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+    <li class="list-group-item"><a href="https://www.kaggle.com/brendanborin"><i class="fa fa-kaggle-square fa-lg"></i> Kaggle</a></li>
   </ul>
 </li>
 <!-- End Sidebar/Social -->

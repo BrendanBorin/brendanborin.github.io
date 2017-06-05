@@ -7,7 +7,7 @@ $( document ).ready(function(){
     $(this).append($('<button/>', {
         text: 'Show Code',
         value: 0,
-        padding: '10px',
+        class: 'show-hide',
         click: function() {
           if ($(this).attr('value') == 0) {
               $(this).text('Hide Code');
