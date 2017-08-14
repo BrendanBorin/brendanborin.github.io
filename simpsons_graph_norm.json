@@ -1,0 +1,491 @@
+{
+ "links": [
+  {
+   "source": 23,
+   "target": 24,
+   "value": 12.51002735916506
+  },
+  {
+   "source": 27,
+   "target": 28,
+   "value": 43.097963387009635
+  },
+  {
+   "source": 10,
+   "target": 31,
+   "value": 23.36826762986042
+  },
+  {
+   "source": 2,
+   "target": 17,
+   "value": 18.745812008219765
+  },
+  {
+   "source": 4,
+   "target": 16,
+   "value": 10.407676202309588
+  },
+  {
+   "source": 2,
+   "target": 23,
+   "value": 14.383293513940036
+  },
+  {
+   "source": 4,
+   "target": 13,
+   "value": 24.698808426531798
+  },
+  {
+   "source": 5,
+   "target": 23,
+   "value": 10.494973387080195
+  },
+  {
+   "source": 10,
+   "target": 32,
+   "value": 20.147889884435465
+  },
+  {
+   "source": 5,
+   "target": 13,
+   "value": 10.608782574947671
+  },
+  {
+   "source": 2,
+   "target": 47,
+   "value": 29.961013628753246
+  },
+  {
+   "source": 28,
+   "target": 29,
+   "value": 45.84438815757194
+  },
+  {
+   "source": 4,
+   "target": 17,
+   "value": 11.365785848786734
+  },
+  {
+   "source": 1,
+   "target": 20,
+   "value": 11.24541593526813
+  },
+  {
+   "source": 13,
+   "target": 23,
+   "value": 23.103998297006587
+  },
+  {
+   "source": 6,
+   "target": 12,
+   "value": 53.56529839748795
+  },
+  {
+   "source": 10,
+   "target": 11,
+   "value": 22.132515495122103
+  },
+  {
+   "source": 7,
+   "target": 26,
+   "value": 14.465917274517306
+  },
+  {
+   "source": 0,
+   "target": 14,
+   "value": 10.430610630918656
+  },
+  {
+   "source": 4,
+   "target": 5,
+   "value": 41.5310136182364
+  },
+  {
+   "source": 25,
+   "target": 44,
+   "value": 12.127055517204429
+  },
+  {
+   "source": 1,
+   "target": 4,
+   "value": 34.01679800702293
+  },
+  {
+   "source": 23,
+   "target": 29,
+   "value": 10.878125860357484
+  },
+  {
+   "source": 1,
+   "target": 11,
+   "value": 10.38533137916686
+  },
+  {
+   "source": 16,
+   "target": 23,
+   "value": 20.56861128439239
+  },
+  {
+   "source": 2,
+   "target": 39,
+   "value": 17.797017752190165
+  },
+  {
+   "source": 31,
+   "target": 32,
+   "value": 63.51871499745055
+  },
+  {
+   "source": 2,
+   "target": 4,
+   "value": 13.701842585445597
+  },
+  {
+   "source": 0,
+   "target": 4,
+   "value": 33.040720449058604
+  },
+  {
+   "source": 1,
+   "target": 9,
+   "value": 12.926210002750535
+  },
+  {
+   "source": 1,
+   "target": 34,
+   "value": 10.362487434767884
+  },
+  {
+   "source": 23,
+   "target": 27,
+   "value": 11.954263568928045
+  },
+  {
+   "source": 3,
+   "target": 7,
+   "value": 23.25306311157376
+  },
+  {
+   "source": 20,
+   "target": 22,
+   "value": 41.70545370435428
+  },
+  {
+   "source": 13,
+   "target": 16,
+   "value": 13.846099982517154
+  },
+  {
+   "source": 4,
+   "target": 14,
+   "value": 10.757875181755848
+  },
+  {
+   "source": 4,
+   "target": 23,
+   "value": 16.079235663200667
+  },
+  {
+   "source": 2,
+   "target": 33,
+   "value": 17.599399514962162
+  },
+  {
+   "source": 27,
+   "target": 29,
+   "value": 49.2658951723038
+  },
+  {
+   "source": 13,
+   "target": 46,
+   "value": 12.59768027819117
+  },
+  {
+   "source": 13,
+   "target": 24,
+   "value": 11.586677135236487
+  },
+  {
+   "source": 5,
+   "target": 24,
+   "value": 10.823544072490357
+  },
+  {
+   "source": 39,
+   "target": 47,
+   "value": 10.946904162538452
+  },
+  {
+   "source": 0,
+   "target": 7,
+   "value": 10.601739863615496
+  },
+  {
+   "source": 17,
+   "target": 23,
+   "value": 11.27837991791353
+  },
+  {
+   "source": 8,
+   "target": 9,
+   "value": 49.50995179681764
+  },
+  {
+   "source": 1,
+   "target": 10,
+   "value": 17.6310767385596
+  },
+  {
+   "source": 1,
+   "target": 7,
+   "value": 15.349263593397241
+  },
+  {
+   "source": 9,
+   "target": 31,
+   "value": 10.350716973712059
+  },
+  {
+   "source": 5,
+   "target": 14,
+   "value": 10.502329472444407
+  },
+  {
+   "source": 1,
+   "target": 14,
+   "value": 12.399437840314295
+  },
+  {
+   "source": 2,
+   "target": 5,
+   "value": 10.548788763010739
+  },
+  {
+   "source": 0,
+   "target": 5,
+   "value": 36.13365226033065
+  },
+  {
+   "source": 0,
+   "target": 1,
+   "value": 47.50467517302158
+  },
+  {
+   "source": 1,
+   "target": 5,
+   "value": 33.82745417145704
+  },
+  {
+   "source": 1,
+   "target": 32,
+   "value": 15.596931103910494
+  },
+  {
+   "source": 1,
+   "target": 31,
+   "value": 16.99050897069899
+  }
+ ],
+ "nodes": [
+  {
+   "group": 1,
+   "name": "Marge Simpson"
+  },
+  {
+   "group": 1,
+   "name": "Homer Simpson"
+  },
+  {
+   "group": 2,
+   "name": "Seymour Skinner"
+  },
+  {
+   "group": 4,
+   "name": "Todd Flanders"
+  },
+  {
+   "group": 1,
+   "name": "Bart Simpson"
+  },
+  {
+   "group": 1,
+   "name": "Lisa Simpson"
+  },
+  {
+   "group": 4,
+   "name": "Patty Bouvier"
+  },
+  {
+   "group": 4,
+   "name": "Ned Flanders"
+  },
+  {
+   "group": 3,
+   "name": "Waylon Smithers"
+  },
+  {
+   "group": 3,
+   "name": "C. Montgomery Burns"
+  },
+  {
+   "group": 4,
+   "name": "Moe Szyslak"
+  },
+  {
+   "group": 4,
+   "name": "Barney Gumble"
+  },
+  {
+   "group": 4,
+   "name": "Selma Bouvier"
+  },
+  {
+   "group": 2,
+   "name": "Milhouse Van Houten"
+  },
+  {
+   "group": 4,
+   "name": "Grampa Simpson"
+  },
+  {
+   "group": 4,
+   "name": "Announcer"
+  },
+  {
+   "group": 2,
+   "name": "Martin Prince"
+  },
+  {
+   "group": 2,
+   "name": "Edna Krabappel-Flanders"
+  },
+  {
+   "group": 2,
+   "name": "Otto Mann"
+  },
+  {
+   "group": 4,
+   "name": "Narrator"
+  },
+  {
+   "group": 4,
+   "name": "Chief Wiggum"
+  },
+  {
+   "group": 4,
+   "name": "Crowd"
+  },
+  {
+   "group": 4,
+   "name": "Lou"
+  },
+  {
+   "group": 2,
+   "name": "Nelson Muntz"
+  },
+  {
+   "group": 2,
+   "name": "Ralph Wiggum"
+  },
+  {
+   "group": 4,
+   "name": "Krusty the Clown"
+  },
+  {
+   "group": 4,
+   "name": "Rev. Timothy Lovejoy"
+  },
+  {
+   "group": 2,
+   "name": "Jimbo Jones"
+  },
+  {
+   "group": 2,
+   "name": "Kearney Zzyzwicz"
+  },
+  {
+   "group": 2,
+   "name": "DOLPH"
+  },
+  {
+   "group": 4,
+   "name": "Sideshow Bob"
+  },
+  {
+   "group": 3,
+   "name": "Lenny Leonard"
+  },
+  {
+   "group": 3,
+   "name": "Carl Carlson"
+  },
+  {
+   "group": 4,
+   "name": "Agnes Skinner"
+  },
+  {
+   "group": 4,
+   "name": "Apu Nahasapeemapetilon"
+  },
+  {
+   "group": 4,
+   "name": "Kent Brockman"
+  },
+  {
+   "group": 4,
+   "name": "Mayor Joe Quimby"
+  },
+  {
+   "group": 4,
+   "name": "Dr. Julius Hibbert"
+  },
+  {
+   "group": 4,
+   "name": "Lionel Hutz"
+  },
+  {
+   "group": 2,
+   "name": "Groundskeeper Willie"
+  },
+  {
+   "group": 4,
+   "name": "Troy McClure"
+  },
+  {
+   "group": 4,
+   "name": "Professor Jonathan Frink"
+  },
+  {
+   "group": 4,
+   "name": "Snake Jailbird"
+  },
+  {
+   "group": 4,
+   "name": "Fat Tony"
+  },
+  {
+   "group": 4,
+   "name": "Sideshow Mel"
+  },
+  {
+   "group": 4,
+   "name": "Comic Book Guy"
+  },
+  {
+   "group": 4,
+   "name": "Kirk Van Houten"
+  },
+  {
+   "group": 2,
+   "name": "Gary Chalmers"
+  },
+  {
+   "group": 4,
+   "name": "Rainier Wolfcastle"
+  },
+  {
+   "group": 4,
+   "name": "Cletus Spuckler"
+  }
+ ]
+}
